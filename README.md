@@ -14,4 +14,5 @@ Evaluation Criteria:
 - UI/UX: The map should be responsive and user-friendly, with the ability to zoom in and out and pan around.
 
 <h1>Output</h1>
-![task1](https://github.com/klodovic/Display_Polygon_On_Map/assets/61901937/0721fa18-fa2e-4101-99e2-eddd1a64f2ea)
+
+![task1](https://github.com/klodovic/Display_Polygon_On_Map/assets/61901937/9e6c2a98-71a8-40c0-9131-44181a046bd5)
