@@ -13,5 +13,5 @@ Evaluation Criteria:
 - Code Quality: Code should be clean, well-commented, and properly structured.
 - UI/UX: The map should be responsive and user-friendly, with the ability to zoom in and out and pan around.
 
-- Output
+<h1>Output</h1>
 ![task1](https://github.com/klodovic/Display_Polygon_On_Map/assets/61901937/0721fa18-fa2e-4101-99e2-eddd1a64f2ea)
