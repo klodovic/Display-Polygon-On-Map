@@ -1,2 +1,17 @@
-# Display_Polygon_On_Map
- SWE - Task 1
+DISPLAY POLYGON ON A MAP
+
+TASK OVERVIEW
+Create a web application that displays the polygon defined in the provided polygon.json file on a map. Use the OpenLayers library to accomplish this task.
+
+INSTRUCTIONS:
+1. Fetch the polygon coordinates from polygon.json.
+2. Display the polygon on a map using OpenLayers.
+3. Ensure the map centers on the polygon and adjusts its zoom so the entire polygon is visible.
+
+Evaluation Criteria:
+- Correctness: The polygon must be accurately displayed on the map according to the coordinates provided in the JSON file.
+- Code Quality: Code should be clean, well-commented, and properly structured.
+- UI/UX: The map should be responsive and user-friendly, with the ability to zoom in and out and pan around.
+
+- Output
+![task1](https://github.com/klodovic/Display_Polygon_On_Map/assets/61901937/0721fa18-fa2e-4101-99e2-eddd1a64f2ea)
